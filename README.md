@@ -6,4 +6,7 @@ Using `aws-amplify` and `aws-amplify-cli` to authenticate via AWS Cognito Userpo
 Google authentication is configure
 
 ## Backend
-Modified code from the `cognito-express` package to use Typescript. Will investigate the usage of `aws-sdk` in the future. 
+Modified code from the `cognito-express` package to use Typescript. 
+
+Will investigate the usage of `aws-sdk` in the future.
+Will investigate CSRF Vulnerability.
