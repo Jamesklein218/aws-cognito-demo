@@ -1,11 +1,11 @@
 {
-    "aws_project_region": "ap-southeast-2",
-    "aws_cognito_identity_pool_id": "ap-southeast-2:1b4b8ee6-ed0b-4498-ac8e-d0b18a0b1920",
-    "aws_cognito_region": "ap-southeast-2",
-    "aws_user_pools_id": "ap-southeast-2_waYxvZLHx",
-    "aws_user_pools_web_client_id": "343mn8dhqmv8iv3gedmovqiou9",
+    "aws_project_region": "",
+    "aws_cognito_identity_pool_id": "",
+    "aws_cognito_region": "2",
+    "aws_user_pools_id": ",
+    "aws_user_pools_web_client_id": "",
     "oauth": {
-        "domain": "authfe3335d7b6-3335d7b6-dev.auth.ap-southeast-2.amazoncognito.com",
+        "domain": "",
         "scope": [
             "phone",
             "email",
@@ -13,11 +13,11 @@
             "profile",
             "aws.cognito.signin.user.admin"
         ],
-        "redirectSignIn": "https://dev.game.gdsc.app/,http://localhost:5173/",
-        "redirectSignOut": "https://dev.game.gdsc.app/,http://localhost:5173/",
+        "redirectSignIn": "",
+        "redirectSignOut": "",
         "responseType": "code"
     },
-    "federationTarget": "COGNITO_USER_POOLS",
+    "federationTarget": "",
     "aws_cognito_username_attributes": [
         "EMAIL"
     ],
